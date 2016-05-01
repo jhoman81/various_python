@@ -8,8 +8,8 @@ def penultimateWord(text):
 
 if __name__ == '__main__':
 	word = "The quick dog jumped over the log"
-	word2 = "Another one"
-	word3 = "Finally the Rock has come back to Chicago"
+	word2 = "Another one, and a third"
+	word3 = "Finally the Rock has come back to Chicago fpr the last time"
 
 	print(penultimateWord(word))
 	print(penultimateWord(word2))
